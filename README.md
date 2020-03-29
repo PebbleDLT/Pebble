@@ -20,8 +20,8 @@ and finding other peers in the Pebble Network.
 
 ### Pebble Peer Node Testnet Configuration
 
-Modify the `Config.txt` for pointing to Discovery Node
-Place `Config.txt` in the same directory as the Pebble Binary.
+Modify the `Config.json` for pointing to Discovery Node
+Place `Config.json` in the same directory as the Pebble Binary.
 
 
 ### Pebble APIs
