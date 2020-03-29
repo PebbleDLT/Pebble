@@ -1,4 +1,4 @@
-![Pebble Logo2](Pebble_name_logo.svg)
+![Pebble Logo2](Pebble.svg)
 # Pebble Distributed Ledger Technology
 ## Live Network
 ##### NOTE: Currently the Pebble network is in active development, hence we are not sharing the codebase and the live network is maintained by us.The network is not fully stable yet.
